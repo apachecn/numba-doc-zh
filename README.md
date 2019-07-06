@@ -1,6 +1,6 @@
 # Numba 0.44 中文文档
 
-![](http://numba.pydata.org/numba-doc/latest/_static/numba_blue_icon_rgb.png)
+![](docs/img/logo.png)
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
