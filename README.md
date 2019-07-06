@@ -1,10 +1,12 @@
-# seaborn 0.9 中文文档
+# Numba 0.44 中文文档
+
+![](http://numba.pydata.org/numba-doc/latest/_static/numba_blue_icon_rgb.png)
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* [在线阅读](https://apachecn.github.io/seaborn-doc-zh)
+* [在线阅读](https://apachecn.github.io/numba-doc-zh)
 * [贡献指南](CONTRIBUTING.md)
 * [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
@@ -17,8 +19,8 @@
 
 ### 其他
 
-*   认领翻译和项目进度-地址: <https://github.com/apachecn/seaborn-doc-zh/issues/1>
-*   在我们的 [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) github 上提 issue.
+*   认领翻译和项目进度-地址: <https://github.com/apachecn/numba-doc-zh/issues/1>
+*   在我们的 [apachecn/numba-doc-zh](https://github.com/apachecn/numba-doc-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
