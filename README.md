@@ -2,6 +2,8 @@
 
 ![](docs/img/logo.png)
 
+> 原文：[Numba documentation](http://numba.pydata.org/numba-doc/latest/index.html/)
+> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
